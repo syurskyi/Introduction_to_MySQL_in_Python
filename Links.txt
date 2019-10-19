@@ -1,0 +1,7 @@
+https://www.w3schools.com/python/python_mysql_getstarted.asp
+https://www.datacamp.com/community/tutorials/mysql-python
+https://pynative.com/python-mysql-database-connection/
+https://pynative.com/python-mysql-tutorial/
+http://www.mysqltutorial.org/python-mysql/
+https://www.tutorialspoint.com/python/python_database_access.htm
+http://zetcode.com/db/mysqlpython/
